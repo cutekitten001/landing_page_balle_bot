@@ -11,7 +11,7 @@
 
 ## 📋 About
 
-This is a very simple and **landing page**
+This is a very simple **landing page**
 
 <br>
 
